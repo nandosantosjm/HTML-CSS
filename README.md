@@ -2,5 +2,5 @@
 
 Estou aprendendo a criar site e agora vou gerencia meu repositorio
 
-<a href="https://nandojm.github.io/HTML-CSS/ Exercício/ desafios/ d010
-/index.html">Executar o sita do android </a>
+<a href="https://nandojm.github.io/HTML-CSS/Exercício/desafios/d010
+/index/index.html">Executar o sita do android </a>
